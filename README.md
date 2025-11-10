@@ -1,7 +1,6 @@
 # Student-Grade-Management-System
 
-# Advanced Student Grade Management System
-
+Advanced Student Grade Management System using Python-
 A Python CLI app to manage student grades with JSON storage, CSV export/import, and performance analysis.
 
 ## Features
